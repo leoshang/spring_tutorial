@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+<log4j:configuration xmlns:log4j='http://jakarta.apache.org/log4j/'>
+
+    <appender name="consoleAppender" class="org.apache.log4j.ConsoleAppender">
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%-4r [%t] %-5p %c %x - %m%n" />
+        </layout>
+    </appender>
+
+    <!-- sets the priority log level for net.sf.ehcache  -->
+    <category name="net.sf.ehcache">
+        <level value="DEBUG" />
+    </category>
+
+    <!-- sets the default priority log level -->
+    <root>
+        <level value="error"/>
+        <appender-ref ref="consoleAppender"/>
+    </root>
+</log4j:configuration>

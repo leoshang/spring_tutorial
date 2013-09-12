@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Log4jExample4/Log4jExample4.iml" filepath="$PROJECT_DIR$/Log4jExample4/Log4jExample4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Log4jExample5/Log4jExample5.iml" filepath="$PROJECT_DIR$/Log4jExample5/Log4jExample5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/container-1-start/container-1-start.iml" filepath="$PROJECT_DIR$/container-1-start/container-1-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/container-2-start/container-2-start.iml" filepath="$PROJECT_DIR$/container-2-start/container-2-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/container-3-start/container-3-start.iml" filepath="$PROJECT_DIR$/container-3-start/container-3-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/container-4-start/container-4-start.iml" filepath="$PROJECT_DIR$/container-4-start/container-4-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recipe/recipe.iml" filepath="$PROJECT_DIR$/recipe/recipe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-intro-1-start/spring-intro-1-start.iml" filepath="$PROJECT_DIR$/spring-intro-1-start/spring-intro-1-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_core_tutorial.iml" filepath="$PROJECT_DIR$/spring_core_tutorial.iml" />
+    </modules>
+  </component>
+</project>
+

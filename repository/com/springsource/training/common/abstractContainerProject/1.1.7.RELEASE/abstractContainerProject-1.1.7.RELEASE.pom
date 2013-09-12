@@ -1,0 +1,69 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>abstractContainerProject</artifactId>
+	<name>Abstract Container Project</name>
+	<packaging>pom</packaging>
+	<parent>
+		<groupId>com.springsource.training.common</groupId>
+		<artifactId>java-project-parent</artifactId>
+		<version>1.1.7.RELEASE</version>
+	</parent>
+	<modules>
+		<module>abstractAopProject</module>
+	</modules>
+	<dependencies>
+		<!-- Internal dependencies -->
+		<dependency>
+			<groupId>com.springsource.training.common</groupId>
+			<artifactId>common-aux</artifactId>
+			<version>1.1.7.RELEASE</version>
+		</dependency>
+		<!-- Spring dependencies -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-context</artifactId>
+			<version>${spring.framework.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-jdbc</artifactId>
+			<version>${spring.framework.version}</version>
+		</dependency>
+		<!-- Database dependencies-->
+		<dependency>
+			<groupId>org.hsqldb</groupId>
+			<artifactId>hsqldb</artifactId>
+			<version>${hsqldb.version}</version>
+		</dependency>
+		<!-- Test dependencies-->
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit
+				</artifactId>
+			<version>${junit.version}</version>
+			<scope>test</scope>
+		</dependency>
+		<!-- Utils -->
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>${log4j.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>cglib</groupId>
+			<artifactId>cglib</artifactId>
+			<version>${cglib.version}</version>
+		</dependency>
+
+	</dependencies>
+	<repositories>
+		<repository>
+			<id>com.springsource.training.release</id>
+			<name>SpringSource Training Repository - Releases</name>
+			<url>https://tbits.springsource.com/repository/release</url>
+			<snapshots>
+				<enabled>false</enabled>
+			</snapshots>
+		</repository>
+	</repositories>
+</project>

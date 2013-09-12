@@ -1,0 +1,20 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Aug 02 09:05:12 UTC 2011
+http\://repo1.maven.org/maven2/.lastUpdated=1312275820272
+https\://tbits.springsource.com/repository/snapshot/.error=
+http\://maven.springframework.org/milestone/.lastUpdated=1312275855116
+http\://maven.springframework.org/milestone/.error=
+https\://tbits.springsource.com/repository/snapshot/.lastUpdated=1312275820002
+file\:///home/bamboo/.m2/repository/.lastUpdated=1312275819981
+http\://download.java.net/maven/2/.lastUpdated=1312275912491
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+default-http\://s3.amazonaws.com/private.maven.springsource.com/snapshot/.lastUpdated=1312275855220
+http\://download.java.net/maven/2/.error=
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1312275820088
+http\://s3.amazonaws.com/private.maven.springsource.com/snapshot/.error=Could not transfer artifact org.hsqldb\:hsqldb\:jar\:sources\:1.8.0.10 from/to springsource-snapshot (http\://s3.amazonaws.com/private.maven.springsource.com/snapshot/)\: Access denied to\: http\://s3.amazonaws.com/private.maven.springsource.com/snapshot/org/hsqldb/hsqldb/1.8.0.10/hsqldb-1.8.0.10-sources.jar
+http\://maven.springframework.org/release/.lastUpdated=1312275912686
+file\:///home/bamboo/.m2/repository/.error=
+https\://tbits.springsource.com/repository/release/.lastUpdated=1312275820022
+http\://repo1.maven.org/maven2/.error=
+http\://maven.springframework.org/release/.error=
+https\://tbits.springsource.com/repository/release/.error=

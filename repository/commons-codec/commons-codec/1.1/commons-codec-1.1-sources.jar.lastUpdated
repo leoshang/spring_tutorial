@@ -1,0 +1,12 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Aug 02 09:03:30 UTC 2011
+https\://tbits.springsource.com/repository/snapshot/.error=
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1312275810778
+https\://tbits.springsource.com/repository/snapshot/.lastUpdated=1312275810642
+https\://tbits.springsource.com/repository/release/.lastUpdated=1312275810652
+file\:///home/bamboo/.m2/repository/.lastUpdated=1312275810626
+file\:///home/bamboo/.m2/repository/.error=
+http\://repo1.maven.org/maven2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1312275810969
+https\://tbits.springsource.com/repository/release/.error=

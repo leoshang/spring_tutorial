@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<script type="text/javascript">
+    var RecaptchaOptions = {
+        theme : 'white'
+    };
+</script>
+
+<form method="post" action="reCaptcha_verify.php">
+    <?php
+          require_once('recaptchalib.php');
+          $publickey = "6LefCecSAAAAAPnLXb_CM7P2RI4UU1MB94tq0KG5"; // you got this from the signup page
+          echo recaptcha_get_html($publickey);
+        ?>
+
+    <script type="text/javascript"
+            src="http://www.google.com/recaptcha/api/challenge?k=6LefCecSAAAAAPnLXb_CM7P2RI4UU1MB94tq0KG5">
+    </script>
+    <noscript>
+        <iframe src="http://www.google.com/recaptcha/api/noscript?k=your_public_key"
+                height="300" width="500" frameborder="0"></iframe><br>
+        <textarea name="recaptcha_challenge_field" rows="3" cols="40">
+        </textarea>
+        <input type="hidden" name="recaptcha_response_field"
+               value="manual_challenge">
+    </noscript>
+    <input type="submit" />
+</form>
+
+
+
+</body>
+</html>

@@ -1,0 +1,3 @@
+1    [main] WARN  com.vaannila.helloworld.HelloWorld  - Sample warn message
+2    [main] ERROR com.vaannila.helloworld.HelloWorld  - Sample error message
+2    [main] FATAL com.vaannila.helloworld.HelloWorld  - Sample fatal message

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.cloudfoundry</groupId>
+  <artifactId>cloudfoundry-runtime</artifactId>
+  <version>0.6.0-BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20110412.083754</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20110412083757</lastUpdated>
+  </versioning>
+</metadata>
