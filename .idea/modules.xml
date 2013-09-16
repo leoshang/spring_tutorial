@@ -8,7 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/container-2-start/container-2-start.iml" filepath="$PROJECT_DIR$/container-2-start/container-2-start.iml" />
       <module fileurl="file://$PROJECT_DIR$/container-3-start/container-3-start.iml" filepath="$PROJECT_DIR$/container-3-start/container-3-start.iml" />
       <module fileurl="file://$PROJECT_DIR$/container-4-start/container-4-start.iml" filepath="$PROJECT_DIR$/container-4-start/container-4-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvc-1-start/mvc-1-start.iml" filepath="$PROJECT_DIR$/mvc-1-start/mvc-1-start.iml" />
       <module fileurl="file://$PROJECT_DIR$/recipe/recipe.iml" filepath="$PROJECT_DIR$/recipe/recipe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-ws-start/rest-ws-start.iml" filepath="$PROJECT_DIR$/rest-ws-start/rest-ws-start.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-intro-1-start/spring-intro-1-start.iml" filepath="$PROJECT_DIR$/spring-intro-1-start/spring-intro-1-start.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_core_tutorial.iml" filepath="$PROJECT_DIR$/spring_core_tutorial.iml" />
     </modules>

@@ -1,0 +1,52 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="mvc-1-start:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/mvc_1_start_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mvc-1-start" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="jstl-1.2.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="jta-1.1.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="antlr-2.7.6.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="aopalliance-1.0.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="asm-3.1.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="aspectjrt-1.6.8.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="aspectjweaver-1.6.8.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="cglib-2.2.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="common-aux-1.1.7.RELEASE.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="commons-collections-3.1.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="commons-logging-1.1.1.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="dom4j-1.6.1.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="hibernate-annotations-3.5.3-Final.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="hibernate-commons-annotations-3.2.0.Final.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="hibernate-core-3.5.3-Final.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="hibernate-entitymanager-3.5.3-Final.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="hibernate-jpa-2.0-api-1.0.0.Final.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="hsqldb-1.8.0.10.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="javassist-3.9.0.GA.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="junit-4.7.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="log4j-1.2.14.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="slf4j-api-1.5.8.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="slf4j-jcl-1.5.8.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="spring-aop-3.0.5.RELEASE.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="spring-asm-3.0.5.RELEASE.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="spring-beans-3.0.5.RELEASE.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="spring-context-3.0.5.RELEASE.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="spring-context-support-3.0.5.RELEASE.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="spring-core-3.0.5.RELEASE.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="spring-expression-3.0.5.RELEASE.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="spring-jdbc-3.0.5.RELEASE.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="spring-orm-3.0.5.RELEASE.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="spring-test-3.0.5.RELEASE.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="spring-tx-3.0.5.RELEASE.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="spring-web-3.0.5.RELEASE.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="spring-webmvc-3.0.5.RELEASE.jar" module-name="mvc-1-start" />
+          <element id="library" level="module" name="xml-apis-1.0.b2.jar" module-name="mvc-1-start" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="mvc-1-start/web/Web" />
+    </root>
+  </artifact>
+</component>
